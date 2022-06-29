@@ -1,0 +1,87 @@
+.NacaoDoFogo {background-image: url("./assets/nacaoFogo.jpg");}
+.Dagobah {background-image: url("./assets/xwing.jpg");}
+.Valfenda {background-image: url("./assets/valfenda.jpg");}
+.Hogwarts {background-image: url("./assets/hogwarts.jpg");}
+.LionKing {background-image: url("./assets/LionKing.jpg");}
+.IronThrone {background-image: url("./assets/IronThrone.jpg");}
+
+
+.box1{  
+    border: 4px solid black;
+    background-color: rgb(235, 96, 53);
+    color: white; 
+}
+
+.bot1{
+    border: 4px solid black;
+    background-color: rgb(235, 96, 53);
+    color: white; 
+}
+
+.bot1:hover{
+    background-color: rgb(204, 55, 10);
+  }
+  
+
+.box2{  
+    border: 4px solid black;
+    background-color: rgb(32, 182, 57);
+    color: white; 
+}
+
+.bot2{
+    border: 4px solid black;
+    background-color: rgb(32, 182, 57);
+    color: white; 
+}
+
+.bot2:hover{
+    background-color: rgb(3, 105, 34);
+  }
+
+.box3{  
+    border: 4px solid black;
+    background-color: rgb(107, 107, 107);
+    color: white; 
+}
+
+.bot3{
+    border: 4px solid black;
+    background-color: rgb(107, 107, 107);
+    color: white; 
+}
+.bot3:hover{
+    background-color: rgb(61, 61, 61);
+  }
+
+.box4{  
+    border: 4px solid black;
+    background-color: rgb(45, 28, 204);
+    color: white; 
+}
+
+.bot4{
+    border: 4px solid black;
+    background-color: rgb(45, 28, 204);
+    color: white; 
+}
+
+.bot4:hover{
+    background-color: rgb(12, 3, 90);
+  }
+
+.box5{  
+    border: 4px solid black;
+    background-color: rgb(151, 83, 5);
+    color: white; 
+}
+
+.bot5{
+    border: 4px solid black;
+    background-color: rgb(151, 83, 5);
+    color: white; 
+}
+
+.bot5:hover{
+    background-color: rgba(94, 52, 5, 0.842);
+  }

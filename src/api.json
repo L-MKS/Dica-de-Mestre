@@ -1,0 +1,52 @@
+{
+    "mestres":[ 
+    {   
+        "nome": "Mestre Iroh",
+        "retrato": "uncleIroh",
+        "ambiente": "NacaoDoFogo",
+        "box": "box1",
+        "botao": "bot1"
+    },
+
+    {
+        "nome": "Mestre Yoda",
+        "retrato":"yoda",
+        "ambiente": "Dagobah",
+        "box": "box2",
+        "botao": "bot2"
+    },
+
+    {
+        "nome": "Gandalf o cinza",
+        "retrato":"gandalf",
+        "ambiente": "Valfenda",
+        "box": "box3",
+        "botao": "bot3"
+    },
+
+    {
+        "nome": "Alvo Dumbledore",
+        "retrato":"Dumbledore",
+        "ambiente": "Hogwarts",
+        "box": "box3",
+        "botao": "bot3"
+    },
+    
+    {
+        "nome": "Shaman Rafiki",
+        "retrato":"Rafiki",
+        "ambiente": "LionKing",
+        "box": "box4",
+        "botao": "bot4"
+    },
+
+    {
+        "nome": "Tyrion Lannister",
+        "retrato":"Tyrion",
+        "ambiente": "IronThrone",
+        "box": "box5",
+        "botao": "bot5"
+    }
+
+    ]   
+}

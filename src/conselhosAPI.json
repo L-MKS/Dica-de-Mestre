@@ -1,0 +1,62 @@
+{
+    "Mestre Iroh":[ 
+        {"dica": "Às vezes, a melhor maneira de resolver os nossos próprios problemas é ajudando outra pessoa"},
+        {"dica": "Pelo contrário, a melhor coisa de ir a algum lugar e não achar o que estava procurando, é achar alguma coisa que não estava procurando."},
+        {"dica": "É importante extrair sabedoria de diferentes lugares. Se você levá-la de apenas um lugar, se tornará rígido e velho."},
+        {"dica": "A vida acontece onde quer que você esteja, quer você o faça ou não"},
+        {"dica": "O orgulho não é o oposto de vergonha, mas sua fonte, humildade pura é o único antídoto para a vergonha"},
+        {"dica": "Embora seja sempre bom acreditar em si mesmo, uma ajudinha dos outros pode ser uma grande benção"},
+        {"dica": "Não há nada errado em deixar alguém que nos ama nos ajudar. Não que eu ame você. Acabo de conhecê-la"}
+    ],  
+    "Mestre Yoda":[
+        {"dica": "Melhor professor, o fracasso é."},
+        {"dica": "Fazer ou não fazer. Tentativa não há"},
+        {"dica": "Treine a si mesmo a deixar partir tudo que teme perder"},
+        {"dica": "Muitas das verdades que temos dependem de nosso ponto de vista"},
+        {"dica": "O medo leva à raiva, a raiva leva ao ódio e o ódio leva ao sofrimento"},
+        {"dica": "O seu foco é a sua realidade"},
+        {"dica": "Em um estado sombrio nós nos encontramos... um pouco mais de conhecimento iluminar nosso caminho pode"},
+        {"dica": "A morte é parte natural da Vida. Regozije-se por aqueles que se uniram com a Força. Não lamente por eles. Não sinta falta deles. O apego leva à inveja. À sombra da cobiça, isso sim"}
+    ],
+
+    "Gandalf o cinza":[
+        {"dica": "A mão queimada ensina melhor. Depois disso o conselho sobre o fogo chega ao coração."},
+        {"dica": "Não é importante saber quanto tempo resta, mas o que fazer com o tempo concedido"},
+        {"dica": "Não tenho conselhos para dar a quem se desespera"},
+        {"dica": "Você não pode ser um tirano e conselheiro ao mesmo tempo"},
+        {"dica": "Quem rompe algo para descobrir o que é, abandonou o caminho da sabedoria"},
+        {"dica": "As explicações de que os jovens precisam são longas e cansativas"},
+        {"dica": "Para os olhos arregalados, a verdade pode estar escondida atrás de uma careta"}
+    
+    ],
+
+    "Alvo Dumbledore":[
+        {"dica": "É preciso muita coragem para enfrentar os seus inimigos, mas muito mais para enfrentar os seus amigos."},
+        {"dica": "São as nossas escolhas que revelam o que realmente somos, muito mais do que as nossas qualidades"},
+        {"dica": "Palavras são, na minha nada humilde opinião, nossa inesgotável fonte de magia. Capazes de causar grandes sofrimentos e também remediá-los"},
+        {"dica": "Sempre chame as coisas pelo nome que têm. O medo de um nome só aumenta o medo da coisa em si"},
+        {"dica": "É importante lutar, e recomeçar a lutar, e continuar a lutar, porque somente assim o mal poderá ser acuado, embora jamais erradicado"},
+        {"dica": "As consequências de nossos atos são sempre tão complexas, tão diversas que predizer o futuro é uma tarefa realmente difícil"},
+        {"dica": "A indiferença e o abandono muitas vezes causam mais danos do que a aversão direta"},
+        {"dica": "A verdade é uma coisa bela e terrível, por isso deve ser tratada com grande cautela"}
+    
+    ],
+    
+    "Shaman Rafiki":[
+        {"dica": "Oh, sim! O passado pode machucar. Mas, você pode fugir dele ou aprender com ele"},
+        {"dica": "Todo dia é uma lição de si mesmo. Aproveite a viagem!"},
+        {"dica": "Sim! Mudar é muito bom. Mas, também não é nada fácil"},
+        {"dica": "Qualquer história que valha a pena ser contada vale a pena ser contada duas vezes"},
+        {"dica": "Uma jornada de mil milhas começa com o primeiro passo!"}
+    ],
+    
+    "Tyrion Lannister":[
+        {"dica": "As coroas fazem coisas estranhas às cabeças que estão por baixo delas"},
+        {"dica": "Possuo um entendimento realista das minhas forças e fraquezas. A mente é a minha arma, e uma mente necessita de livros, assim como a espada precisa de uma pedra de amolar se quiser que se mantenha amolada. É por isso que eu leio tanto."},
+        {"dica": "Deixe-me dar alguns conselhos, bastardo. Nunca esqueça o que você é. O resto do mundo nunca se esquecerá. Use isso como uma armadura e nunca poderá usado contra você!"},
+        {"dica": "Qualquer homem que precisa dizer “eu sou o rei” não é um rei de verdade."},
+        {"dica": "A maioria dos homens mais depressa nega uma verdade dura do que a enfrenta"},
+        {"dica": "Talvez seja este o segredo. Não é o que fazemos, mas o motivo por que fazemos"},
+        {"dica": "Quando você corta a língua de um homem, não mostra que ele é um mentiroso, mas que tem medo que o mundo ouça o que ele tem a dizer"}
+    ]
+}
